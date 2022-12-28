@@ -5,12 +5,13 @@ Note -SlopeW format .GSZ is a compressed folder with XML(data) and PLY(Mesh) fil
 
 Model
 
-Slope/W file is prepared
-Extract XML file from .GSZ
-Modify XML file
-put XML file back inside .GSZ archive
-Run analysis with GeoCmd.exe
-Extract results
+1. Slope/W file is prepared
+2. Extract XML file from .GSZ
+3. Modify XML file
+4. put XML file back inside .GSZ archive
+5. Run analysis with GeoCmd.exe
+6. Extract results
+
 Input
 
 -For: Slope/w files #1-n -For: Excel with parameters to swap
